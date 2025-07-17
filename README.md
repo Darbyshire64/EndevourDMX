@@ -15,11 +15,13 @@ It allows for DMX Passthrough so if something where to hapen to the MCU the DMX 
 
 # BOM
 
+Prices From LTSC Part DB as i would like to use PCBA. My Soldering skills are... Questionable. Ive messed up some components in the past.
+
 | QTY | Item                    | Price | Link        |
 |-----|-------------------------|-------|-------------|
-| 1   | IO-XLR3-M-EH            | £1.87 | <a href="https://www.digikey.co.uk/en/products/detail/io-audio-technologies/IO-XLR3-M-EH/9931887E"> LINK </a> |
-| 1   | IO-XLR3-F-EH            | £1.93 | <a href="https://www.digikey.co.uk/en/products/detail/io-audio-technologies/IO-XLR3-F-EH/9931888"> LINK </a> |
-| 1   | MAX485ECPA+             | £5.45 | <a href="https://www.digikey.co.uk/en/products/detail/analog-devices-inc-maxim-integrated/MAX485ECPA/1495198"> LINK </a> |
-| 1   | XIAO ESP32-C3           | £3.67 | <a href="https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/113991054/16652880"> LINK </a>
-| 2   | 1.5KE6.8CA TVS Diode    | £0.40 | <a href="https://www.digikey.co.uk/en/products/detail/littelfuse-inc/1-5KE6-8CA/285844"> LINK </a>
-| 1   | 1N4148                  |
+| 1   | IO-XLR3-M-EH            | £1.87 |             |
+| 1   | IO-XLR3-F-EH            | £1.93 |             |
+| 1   | MAX485ECPA+             | £5.45 |             |
+| 1   | XIAO ESP32-C3           | £3.67 |             |
+| 2   | 1.5KE6.8CA TVS Diode    | £0.40 |             |
+| 1   | 1N4148                  |       |             |
