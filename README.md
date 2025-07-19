@@ -1,6 +1,9 @@
 # EndevourDMX
 This is a custom DMX Tranciver Platform Designed for both reciving and controling DMX. Using an ESP32-C3 With Onboard WIFI
 
+>[!Warning]
+> Use This PCB at your own Risk. I cannot take liability if it breake's and or causes damage to equipment. This has not been tested and there is no garrentee of upholding to any level of quality/functionality.
+
 ## Features
   - Control One DMX Universe
   - Recive DMX and make signal qaulity Reports.
