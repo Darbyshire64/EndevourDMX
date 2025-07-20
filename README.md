@@ -42,5 +42,5 @@ EING Because The PCB Will be handeling Highspeed Data.
 |  1  | IO-XLR3-F-EH     | $2.63 | <a href="https://www.digikey.co.uk/en/products/detail/io-audio-technologies/IO-XLR3-F-EH/9931888">LINK</a> |
 |  1  | IO-XLR3-M-EH     | $2.55 | <a href="https://www.digikey.co.uk/en/products/detail/io-audio-technologies/IO-XLR3-M-EH/9931887">LINK</a> |
 |  1  | ESP-32-C3        | $4.99 | <a href="https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/113991054/16652880">LINK</a> |
-|  1  | 2.4Ghz Atenna    | $2.20 | <a href="https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/103990623/18724506A">LINK</a> |
+|  1  | 2.4Ghz Atenna    | $2.20 | <a href="https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/103990623/18724506">LINK</a> |
 |  1  | Headers          | $0.24 | <a href="https://www.digikey.co.uk/en/products/detail/seeed-technology-co-ltd/102010490/19176770">LINK</a> |
