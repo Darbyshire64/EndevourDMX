@@ -1,0 +1,17 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+D1,D,D_DO-34_SOD68_P10.16mm_Horizontal,159.92,-120.5,0,top
+D2,1.5KExxCA,D_DO-201AE_P15.24mm_Horizontal,149.5,-71.88,-90,top
+D3,1.5KExxCA,D_DO-201AE_P15.24mm_Horizontal,160,-75.38,-90,top
+D4,DMX Status,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,154.5,-109.35,0,top
+D5,WiFi Status,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,146.55,-109.5,0,top
+D6,Light Control,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,138.55,-109.65,0,top
+J1,XLR3 IN,Jack_XLR_Neutrik_NC3MAAH_Horizontal,172.53,-67,90,top
+J3,XLR3 OUT,Jack_XLR_Neutrik_NC3FAH2_Horizontal,67.8,-66.96,180,top
+Q1,2N3904,TO-92_Inline,135.77,-85.14,180,top
+R1,3.3kΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,89.81,-68.5,-90,top
+R2,1.8kΩ,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,100.31,-66,180,top
+R3,120Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,136,-79.81,90,top
+R4,100Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,149.5,-67.31,90,top
+R5,100Ω,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,160,-63.38,-90,top
+U1,MAX485E,DIP-8_W7.62mm,105.7,-69.2,0,top
+U2,XIAO-ESP32-C3-DIP,XIAO-ESP32C3-DIP,172.58,-105,-90,top
