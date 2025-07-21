@@ -36,11 +36,9 @@ It allows for DMX Passthrough so if something where to hapen to the MCU the DMX 
 |     | Total                   | $90.67   |             |
 ## PCB 
 
-EING Because The PCB Will be handeling Highspeed Data.
-
 | QTY | Item                    | Price   | Link        |
 |-----|-------------------------|---------|-------------|
-|  5  | Custom White, EING PCB  | $24.90  |             |
+|  5  | Custom Black LF HASL PCB| $24.90  |             |
 |     | Shipping (GSDL)         | $5.19   |             |
 |     | Total                   | $30.09  |             |
 ## Components
