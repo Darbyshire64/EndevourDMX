@@ -37,7 +37,7 @@ EING Because The PCB Will be handeling Highspeed Data.
 |     | Total                   | $30.09  |             |
 ## Components
 
-Components All From DigiKey. Shiping is estimate...
+Components All From DigiKey. Shiping is estimate. I have chosen Digikey because it has all of my components vs LCSC who has a few of my components in stock as of making the BOM. it would be more cost effective  to buy all the components in one go rather than by two lots of shipping and handeling fees.
 
 | QTY | Item                    | Price  | Link        |
 |-----|-------------------------|---------|-------------|
