@@ -14,7 +14,15 @@ This is a custom DMX Tranciver Platform Designed for both reciving and controlin
 
 It allows for DMX Passthrough so if something where to hapen to the MCU the DMX signal Could still passthrough pasiveley without power. The A,B Data lines are protected by a TVS Diode and 100 ohm resistors this cleans up any interfearence in the transmision. this is then sent the the MAX845E Chip to convert the data into easy to recive serieal data for the ESP. As the DMX lighting protocol uses RS845 Serieal the MAX845E is neccesary to control TX/RX the signal.
 
+# Photos
+## PCB
+<img width="1569" height="1078" alt="image" src="https://github.com/user-attachments/assets/e983d16b-e711-4c6e-908e-37b072736a50" />
+<img width="1248" height="863" alt="image" src="https://github.com/user-attachments/assets/846313d9-7763-4014-8b2a-640cb3290d84" />
 
+## Case
+
+<img width="1272" height="764" alt="image" src="https://github.com/user-attachments/assets/e63a2f39-d777-46fb-b018-aa6648251ac9" />
+<img width="1360" height="742" alt="image" src="https://github.com/user-attachments/assets/25aa59ab-6dca-418f-b122-c7edd516a988" />
 
 # BOM
 
