@@ -68,3 +68,7 @@ I designed the case and and finished up the BOM. I moved everything back to Digi
 So today I thought that the PCB and Case where pretty much finished. so I decided to move onto the firmware. for the firmware i just wanted to start off with a simple  mode cable testing. tommorow i will probably work on an actual control mode.
 
 <img width="1141" height="1252" alt="image" src="https://github.com/user-attachments/assets/e52f172d-6ae1-46d0-85e8-b72086f22f98" />
+
+# Day 7 Firmware (2hrs)
+
+Utilizing the Pre-exsisting firmware i wrote on Day 6 i researched how to control the ESP-32's C3 Wifi chip. so now this new firmware makes an Wifi Network and hosts a web server. With faders to control the ligts. im just making simple firmware for now but im going to add more modes tommorrow.
