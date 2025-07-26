@@ -72,3 +72,4 @@ So today I thought that the PCB and Case where pretty much finished. so I decide
 # Day 7 Firmware (2hrs)
 
 Utilizing the Pre-exsisting firmware i wrote on Day 6 i researched how to control the ESP-32's C3 Wifi chip. so now this new firmware makes an Wifi Network and hosts a web server. With faders to control the ligts. im just making simple firmware for now but im going to add more modes tommorrow.
+<img width="783" height="854" alt="image" src="https://github.com/user-attachments/assets/ac7990f2-e4c6-4154-b042-5a0ccf9fadbf" />
