@@ -17,18 +17,11 @@
 #define OLED_RESET -1
 #define OLED_ADDR 0x3C
 
-
-// Global
-
+//SETUP NP
 Adafruit_NeoPixel strip(NP_AMNT, NP_PIN, NEO_GRB + NEO_KHZ800);
-Adafruit_SSD1306 display(SCN_WIDTH, SCRN_HEIGHT, &Wire, OLED_RESET);
+Adafruit_SSD1306 display(SCRN_WIDTH, SCRN_HEIGHT, &Wire, OLED_RESET);
 
 // helper script
-
-void setPixel(int index, uint32_t color) {
-  strip.setPixelColor(index, color);
-  strip.show();
-}
 
 //Remder text to Display
 void showMessage(string line1, string line2 = "") {
