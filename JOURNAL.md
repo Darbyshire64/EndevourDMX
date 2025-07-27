@@ -77,4 +77,10 @@ Utilizing the Pre-exsisting firmware i wrote on Day 6 i researched how to contro
 <img width="783" height="854" alt="image" src="https://github.com/user-attachments/assets/ac7990f2-e4c6-4154-b042-5a0ccf9fadbf" />
 
 
-# Day 6 -
+# Day 8 -
+(4 hrs) (7hrs Incl Render Time)
+(27/07/2025)
+
+I did some BOM tidying up. and sourced some AliExpress reasearch cutting my BOM by about $20. I then Imported the CAD File into Blender to create a nice Product Reveal Video in blender. And for the 3hrs it took to render. i spent 1 hrs making  some self test firmware. because when i make the product i want a way to test weather my soldering is good. it just runs through Each Np and the display Cycling componenets.
+
+<img width="2559" height="1438" alt="image" src="https://github.com/user-attachments/assets/c4894efe-a384-4ad5-b342-d1ce5b8dc381" />
