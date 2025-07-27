@@ -19,7 +19,7 @@ very Compact and Functional only Allows as much room as needed for the component
 
 # The PCB
 
-## Day 1 Of PCB DESIGN 
+## Day 1 - PCB DESIGN 
 (3 hrs)
 (14/07/25)
 
@@ -28,14 +28,14 @@ i often setup the TX side of things but completely forgot i would be RX aswell. 
 
 <img width="1032" height="440" alt="image" src="https://github.com/user-attachments/assets/e0da8db4-1712-4799-91b4-b60141c3643b" />
 
-## Day 2 of PCB DESIGN 
+## Day 2 - PCB DESIGN 
 (4 hrs)
 (15/07/2025)
 
 Today  I spent alot of time working on the PCB and getting all the components layed out. i made a lot of progress working extra hard to get everything done quickly as of witting its 30mins past midnight for me.
 will probably go over this in the morning with a fresh mind and fix all the spelling mistakes. But after a lot of work i completed the PCB. initially started work on this yesterday as a personal project but eventualy i decided i would like do this for highway to get some more points so i havent got the KiCAD source files in here yet but will migrate them at a later date. 
 
-# Day 3 of PCB Design 
+# Day 3 - PCB Design 
 (3 hrs)
 (18/07/2025) 
 
@@ -43,7 +43,7 @@ I Spent time changeing the width of all the traces to match the voltage. thanks 
 
 <img width="1542" height="838" alt="image" src="https://github.com/user-attachments/assets/77a244c0-db64-4f3f-ab37-be70ae87ff05" />
 
-# Day 4 Of PCB Design 
+# Day 4 - PCB Design 
 (3 hrs)
 (19/07/2025) 
 
@@ -67,9 +67,14 @@ So today I thought that the PCB and Case where pretty much finished. so I decide
 
 <img width="1141" height="1252" alt="image" src="https://github.com/user-attachments/assets/e52f172d-6ae1-46d0-85e8-b72086f22f98" />
 
-# Day 7 Firmware 
+# Day 7 - Firmware 
 (2hrs)
 (25/07/2025)
 
 Utilizing the Pre-exsisting firmware i wrote on Day 6 i researched how to control the ESP-32's C3 Wifi chip. so now this new firmware makes an Wifi Network and hosts a web server. With faders to control the ligts. im just making simple firmware for now but im going to add more modes tommorrow.
+
+
 <img width="783" height="854" alt="image" src="https://github.com/user-attachments/assets/ac7990f2-e4c6-4154-b042-5a0ccf9fadbf" />
+
+
+# Day 6 -
