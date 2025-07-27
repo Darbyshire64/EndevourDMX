@@ -4,7 +4,11 @@ This is a custom DMX Tranciver Platform Designed for both reciving and controlin
 >[!Warning]
 > Use This PCB at your own Risk. I cannot take liability if it breake's and or causes damage to equipment. This has not been tested and there is no garrentee of upholding to any level of quality/functionality.
 
-## Features
+## Curently Availible Firmware Modes
+  - Cable Tester
+  - Light Controler
+
+## Goals
   - Control One DMX Universe
   - Recive DMX and make signal qaulity Reports.
   - WIFI Based Control.
@@ -26,24 +30,29 @@ It allows for DMX Passthrough so if something where to hapen to the MCU the DMX 
 
 # BOM
 
+I know this BOM is Expensive But its cheaper than the equivlent device i was trying to redesign but better, Called MyDMX 3.0 witch is 401.74 USD
+
+<a href="https://www.djkit.com/products/american-dj-mydmx-30?variant=51192390254925&country=GB&currency=GBP&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic"> LINK </a>
 
 | QTY | Item                    | Price   | Link        |
 |-----|-------------------------|---------|-------------|
-|     | PCB Total               | $30.09  |             |
-|     | Component Total         | $29.84  |             |
+|     | PCB Total               | $14.59  |             |
+|     | Component Total         | $38.81 |             |
 |     | Case Total              | $4.50   |             |
-|     | Misc Total              | $26.24   |             |
-|     | Total                   | $90.67   |             |
+|     | Misc Total              | $13.36   |             |
+|     | Total                   | $71.27   |             |
+
 ## PCB 
 
 | QTY | Item                    | Price   | Link        |
 |-----|-------------------------|---------|-------------|
-|  5  | Custom Black LF HASL PCB| $24.90  |             |
+|  5  | Custom Blue LF HASL PCB | $9.40  |             |
 |     | Shipping (GSDL)         | $5.19   |             |
-|     | Total                   | $30.09  |             |
+|     | Total                   | $14.59  |             |
+
 ## Components
 
-Components All From DigiKey. Shiping is estimate. I have chosen Digikey because it has all of my components vs LCSC who has a few of my components in stock as of making the BOM. it would be more cost effective  to buy all the components in one go rather than by two lots of shipping and handeling fees.
+I have chosen Digikey because it has all of my components vs LCSC who has a few of my components in stock as of making the BOM. it would be more cost effective  to buy all the components in one go rather than by two lots of shipping and handeling fees. and A OLEDs components are cheaper via Ali Express.
 
 ### Digikey
 | QTY | Item                    | Price  | Link        |
@@ -66,7 +75,7 @@ Components All From DigiKey. Shiping is estimate. I have chosen Digikey because 
 |     | Total Excl Shiping| $21.95 | |
 |     | Total Incl Shiping| $29.84 | |
 
-# AliExpress
+### AliExpress
 
 | QTY | Item                    | Price  | Link        |
 |-----|-------------------------|---------|-------------|
@@ -90,5 +99,5 @@ Printed With Printing Legion. Estmiated Shiping Cost Based on prevoious printing
 |  1  | 50g Solder              | $10.89  | <a href="https://www.aliexpress.com/item/1005007330449968.html?spm=a2g0o.detail.0.0.d802qv9rqv9rOF&mp=1&pdp_npi=5%40dis%21USD%21USD%2010.89%21USD%205.44%21%21USD%205.44%21%21%21%40211b628117536180518621644e3141%2112000040294388218%21ct%21UK%21-1%21%211%210"> LINK </a> |
 |  1  | M3 Heatset Inserts      | $2.03   | <a href="https://www.aliexpress.com/item/1005003582355741.html?spm=a2g0o.detail.0.0.330ciNNZiNNZhx&mp=1&pdp_npi=5%40dis%21USD%21USD%202.03%21USD%202.03%21%21USD%202.03%21%21%21%40211b628117536180843722706e3141%2112000026370649756%21ct%21UK%21-1%21%211%210"> LINK </a>  |
 |  1  | M3x14mm Screws          | $2.94   | <a href="https://www.aliexpress.com/item/32867841097.html?spm=a2g0o.cart.0.0.5a5b38dafIVPIo&mp=1&pdp_npi=5%40dis%21USD%21USD%202.94%21USD%202.65%21%21USD%202.65%21%21%21%402103892f17536178038338142eac37%2165441947149%21ct%21UK%21-1%21%211%210"> LINK </a> |
-| | Total No Discout & Shiping | $19.81 |
+| | Total No Discount & Shiping | $19.81 |
 | | Total Incl Discounts & Shiping | $13.36|
