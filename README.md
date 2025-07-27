@@ -4,10 +4,7 @@ This is a custom DMX Tranciver Platform Designed for both reciving and controlin
 >[!Warning]
 > Use This PCB at your own Risk. I cannot take liability if it breake's and or causes damage to equipment. This has not been tested and there is no garrentee of upholding to any level of quality/functionality.
 
-
-
-https://github.com/user-attachments/assets/ff008e35-11a1-49ed-939a-4e49b9ad43c8
-
+https://github.com/user-attachments/assets/77d9e712-4af0-4d90-8f60-33b776832eaa
 
 
 ## Curently Availible Firmware Modes
